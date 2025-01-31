@@ -28,3 +28,15 @@ Green for a positive change.
 Red for a negative change.
 
 Applies similar formatting for percentage change.
+
+# Additional Functionality
+
+The script identifies and returns the stock with:
+
+Greatest % Increase
+
+Greatest % Decrease
+
+Greatest Total Volume
+
+The output format is designed to match the expected structured summary table.
